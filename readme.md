@@ -1,12 +1,19 @@
-# Hi there! 👋 I'm Indra Arga Muria
+<h1 align="center">Hi there! 👋 I'm Indra Arga Muria</h1>
 
-An ordinary guy, who loves to:
+<p align="center">
+  <em>An ordinary guy who loves to turn complex problems into simple digital solutions.</em><br>
+  <em>Let's build meaningful things together.</em>
+</p>
 
-- 💻 Code with purpose  
-- 🧠 Solve complex problems  
-- 🏢 Understand business processes  
-- 🔄 Translate functional requirements into technical specs  
-- 🚀 Adapt to new technologies
+---
+
+### 💡 About Me
+
+- 💻 Passionate about crafting clean and efficient code
+- 🧠 Thrives in solving complex logic challenges
+- 🏢 Experienced in understanding real-world business processes
+- 🔄 Skilled at translating functional requirements into technical specifications
+- 🚀 Always exploring new technologies and tools
 
 ---
 
@@ -27,13 +34,16 @@ An ordinary guy, who loves to:
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Indra Arga's GitHub stats](https://github-readme-stats.vercel.app/api?username=indraargamuria&show_icons=true&theme=github_dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indraargamuria&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraargamuria&layout=compact&theme=github_dark&hide_title=true" height="150"/>
+</div>
 
 ---
 
-### 📫 Contact Me
+### 📫 Let's Connect
 
 - 📱 WhatsApp: +62 821 1236 6956  
 - 📸 [Instagram](https://instagram.com/indraargamuria)  
@@ -41,4 +51,6 @@ An ordinary guy, who loves to:
 
 ---
 
-> _Let’s build something meaningful together._
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=100&section=footer"/>
+</p>
