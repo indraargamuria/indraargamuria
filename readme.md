@@ -5,6 +5,10 @@
   <em>Currently exploring modern web tech, with deep roots in enterprise systems.</em>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cute Cat Coding"/>
+</p>
+
 ---
 
 ### 💡 About Me
@@ -35,14 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indraargamuria&show_icons=true&theme=github_dark&hide_title=true&hide=prs" height="150"/>
-</div>
-
----
-
 ### 📫 Let's Connect
 
 - 📱 WhatsApp: +62 821 1236 6956  
@@ -50,6 +46,10 @@
 - 👔 [LinkedIn](https://linkedin.com/in/indraargamuria)
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180" alt="Cat Waving"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=100&section=footer"/>
