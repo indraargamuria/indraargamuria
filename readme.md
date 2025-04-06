@@ -2,18 +2,19 @@
 
 <p align="center">
   <em>An ordinary guy who loves to turn complex problems into simple digital solutions.</em><br>
-  <em>Let's build meaningful things together.</em>
+  <em>Currently exploring modern web tech, with deep roots in enterprise systems.</em>
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 💻 Passionate about crafting clean and efficient code
-- 🧠 Thrives in solving complex logic challenges
-- 🏢 Experienced in understanding real-world business processes
-- 🔄 Skilled at translating functional requirements into technical specifications
-- 🚀 Always exploring new technologies and tools
+- 💻 Passionate about crafting clean and efficient code  
+- 🧠 Thrives in solving complex logic challenges  
+- 🏢 Experienced in understanding real-world business processes  
+- 🔄 Skilled at translating functional requirements into technical specifications  
+- 🚀 Adapting quickly to new technologies and modern frameworks  
+- 🧩 Worked with ERP systems (Epicor) for 7+ years as a technical consultant
 
 ---
 
@@ -37,8 +38,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indraargamuria&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraargamuria&layout=compact&theme=github_dark&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=indraargamuria&show_icons=true&theme=github_dark&hide_title=true&hide=prs" height="150"/>
 </div>
 
 ---
