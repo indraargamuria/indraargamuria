@@ -22,6 +22,28 @@
 
 ---
 
+### 🚀 Projects
+
+#### 🔔 RitmeKelas — Class Management & WhatsApp Notifications
+Automated class manager for university lectures — built as class lead of **02TPLE002 (UNPAM)**.
+
+- 📅 **Weekly schedule engine** — auto-generates teaching weeks from SKS & kelompok, skips UTS/UAS
+- 📷 **QR attendance** — per-week attendance via QR, idempotent device-NIM binding
+- 📊 **Attendance matrix** — roster × weeks color-coded grid, attendance %, export to PDF
+- 📲 **WhatsApp broadcasts** — weekly H-1 messages (daring/luring subjects, lecturer, due dates) to multiple groups via WAHA
+- ⏰ **Scheduled cron** — in-app scheduler, Sunday 19:00 WIB, configurable from dashboard
+- 📝 **Tugas tambahan** — CRUD extra tasks, auto-merged into weekly message
+- 👥 **Roster management** — 32 students, CRUD, email mapping from Google Drive
+- 🔐 **Single-admin auth** — HMAC tokens, rate limiting, security headers
+
+**Stack:** FastAPI · React 19 · TypeScript · Tailwind · SQLite · WAHA · Cloudflare tunnel
+
+<!--
+- 💼 [fortofolio](https://argaportfolio.vercel.app) — personal portfolio
+-->
+
+---
+
 ### ⚒️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
