@@ -22,7 +22,7 @@
 
 ### 🚀 Projects
 
-#### 📋 [OpexAIO](https://github.com/indraargamuria/opexia) — Multi-Tenant SaaS Platform
+#### 📋 OpexAIO — Multi-Tenant SaaS Platform
 All-in-one SaaS for operations teams — PMO, Timesheets, CRM, Expenses.
 One Cloudflare Worker, one D1, one SPA. Hono sub-routers per product behind entitlement checks.
 
@@ -30,7 +30,7 @@ One Cloudflare Worker, one D1, one SPA. Hono sub-routers per product behind enti
 
 ---
 
-#### 🧾 [OpexNOW / AMT e-Meterai](https://github.com/indraargamuria/argoemeterai) — SAP → Peruri Digital Stamp
+#### 🧾 OpexNOW / AMT e-Meterai — SAP → Peruri Digital Stamp
 Enterprise document automation: SAP delivery orders → stamped, signed, distributable e-invoices.
 SAP RFC sync → buyer confirmation → invoice creation → Peruri e-Meterai signing → email distribution.
 
@@ -38,30 +38,35 @@ SAP RFC sync → buyer confirmation → invoice creation → Peruri e-Meterai si
 
 ---
 
-#### 🎓 [RitmeKelas](https://github.com/indraargamuria/ritmekelas) — Class Management & WhatsApp Notifications
+#### 🎓 RitmeKelas — Class Management & WhatsApp Notifications
 University class manager: attendance, schedules, tasks, automated WhatsApp broadcasts.
 QR attendance, attendance matrix with PDF export, cron-scheduled H-1 notifications via WAHA.
 
 **Stack:** FastAPI · React 19 · TypeScript · Tailwind · SQLite · WAHA · Cloudflare tunnel
 
+🔗 [live](https://ritmekelas.arga-automation.xyz)
+
 ---
 
-#### 📊 [GetItDone](https://github.com/indraargamuria/getitdone) — Task Manager
+#### 📊 GetItDone — Task Manager
 TickTick-style single-user task manager. Nested lists, tags, recurring tasks, full-text search, smart views.
 Dark/light themes, responsive mobile layout, paper-notebook UI.
 
 **Stack:** Hono · Cloudflare Workers · D1 · Drizzle ORM · React · TypeScript · Tailwind
 
+🔗 [live](https://getitdone.arga-automation.xyz)
+
 ---
 
-#### 📈 [ForexArgent](https://github.com/indraargamuria/forexargent) — Forex Research & Signal Tool
-Trend-pullback strategy with honest backtests — real spread, commission, randomized slippage. No strategy is trusted until it pays full execution costs.
+#### 📈 ForexArgent — Forex Research & Signal Tool
+Trend-pullback strategy with honest backtests — real spread, commission, randomized slippage.
+No strategy is trusted until it pays full execution costs.
 
 **Stack:** Python · MetaTrader5 · Telegram Bot API
 
 ---
 
-#### 🏗️ [WFE_BPM](https://github.com/indraargamuria/WFE_BPM) — Wong Fong Engineering BPM
+#### 🏗️ WFE_BPM — Wong Fong Engineering BPM
 BPM custom C# code for workflow automation in manufacturing ERP environments.
 
 ---
